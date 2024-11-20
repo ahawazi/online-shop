@@ -36,3 +36,4 @@ export const PRODUCTS =[
         productImage : shoes
     }
 ]
+export default PRODUCTS;
